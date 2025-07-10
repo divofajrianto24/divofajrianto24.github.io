@@ -1,0 +1,19 @@
+.jumbotron{
+    padding-top: 7rem;
+    background-color: #e3ecff;
+}
+#projects {
+    background-color: #e3ecff;
+}
+footer {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#contact svg {
+    display: block;
+    margin-bottom: -1px;
+}
+section {
+    padding-top:5rem;   
+}
